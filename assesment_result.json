@@ -1,0 +1,9 @@
+{
+    "Test Case 1: Initial Page Load Tests - checks initial rendering of the page": "TEST_STATUS_SUCCESS",
+    "Test Case 2: Input Field Functionality Tests - tests input fields functionality": "TEST_STATUS_SUCCESS",
+    "Test Case 3: Form Submission Tests - submits the form and displays the full name": "TEST_STATUS_SUCCESS",
+    "Test Case 4: Form Submission Tests - checks if the form submission does not reload the page": "TEST_STATUS_SUCCESS",
+    "Test Case 5: Edge Case Tests - submits the form with one field empty and does not display a full name": "TEST_STATUS_SUCCESS",
+    "Test Case 6: Edge Case Tests - submits the form with both fields empty and does not display a full name": "TEST_STATUS_SUCCESS",
+    "Test Case 7: Edge Case Tests - tests various inputs including special characters and numbers": "TEST_STATUS_SUCCESS"
+}
